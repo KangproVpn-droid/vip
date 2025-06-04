@@ -30,7 +30,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/KangproVpn-droid/vip/main/limit/menu.zip
+    wget https://raw.githubusercontent.com/KangproVpn-droid/vip/main/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
