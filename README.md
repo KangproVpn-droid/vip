@@ -6,7 +6,7 @@
 
 ### LINK UPDATE 
 ```
-wget -q https://sc.kangpro.my.id/update.sh && chmod +x update.sh && ./update.sh
+wget -q wget -q https://raw.githubusercontent.com/KangproVpn-droid/vip/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ### REPO REBUILD VIA VPS ###
